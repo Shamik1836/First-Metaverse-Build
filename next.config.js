@@ -1,6 +1,6 @@
 module.exports = {
   images: {
     //array of whitelisted domains
-    domains: ["avatars.dicebar.com", "links.papareact.com"],
+    domains: ["avatars.dicebear.com", "links.papareact.com"],
   },
 };
